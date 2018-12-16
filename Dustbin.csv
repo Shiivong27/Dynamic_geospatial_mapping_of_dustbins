@@ -1,0 +1,31 @@
+Longitude,Latitude,Area,Status,Time_of_Day,Population,Distance_to_Industry
+77.6271,12.9279,Kormangala,Empty,7pm-12am,70,20
+77.7499,12.9698,Whitefield,Full,11am-3pm,90,28
+77.6476,12.9081,HSR Layout,Half,11am-3pm,110,22
+77.677,12.8399,Electronic city,Full,11am-3pm,75,25
+77.5282,13.028,Yeshwanthpur,Full,11am-3pm,175,1
+77.526,13.0474,Yeshwanthpur,Full,11am-3pm,175,1
+77.5719,13.0388,Yeshwanthpur,Half,7-10 am,175,1
+77.5614,13.0499,Yeshwanthpur,Full,11am-3pm,175,1
+77.5314,13.0399,Yeshwanthpur,Full,11am-3pm,175,1
+77.5038,13.0116,Yeshwanthpur,Full,3-7 pm,175,1
+77.6271,12.9279,Kormangala,Half,7-10 am,70,20
+77.6321,12.9456,Kormangala,Empty,7pm-12am,70,20
+77.599,12.9432,Kormangala,Full,3-7 pm,70,20
+77.6278,12.9132,Kormangala,Half,7-10 am,70,20
+77.6122,12.9101,Kormangala,Half,7-10 am,70,20
+77.7499,12.9618,Whitefield,Full,7pm-12am,90,28
+77.745,12.9595,Whitefield,Empty,7pm-12am,90,28
+77.7008,12.9585,Whitefield,Empty,11am-3pm,90,28
+77.7161,12.9601,Whitefield,Full,11am-3pm,90,28
+77.7415,12.9499,Whitefield,Half,11am-3pm,90,28
+77.6496,12.9101,HSR Layout,Empty,7pm-12am,110,22
+77.6389,12.901,HSR Layout,Half,7-10 am,110,22
+77.6301,12.912,HSR Layout,Half,7pm-12am,110,22
+77.6401,12.9158,HSR Layout,Full,11am-3pm,110,22
+77.6445,12.9021,HSR Layout,Full,7-10 am,110,22
+77.667,12.8199,Electronic city,Half,7-10 am,75,25
+77.677,12.8299,Electronic city,Full,11am-3pm,75,25
+77.657,12.815,Electronic city,Empty,7pm-12am,75,25
+77.687,12.825,Electronic city,Empty,11am-3pm,75,25
+77.6621,12.835,Electronic city,Empty,7-10 am,75,25
